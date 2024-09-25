@@ -2,6 +2,7 @@
   --building-color1: #aa80ff;
   --building-color2: #66cc99;
   --building-color3: #cc6699;
+  --building-color4: #538cc6;
 }
 
 *{
@@ -29,9 +30,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    --building-color1: #aa80ff;
-    --building-color2: #66cc99;
-    --building-color3: #cc6699;
+  }
 
   .bb1a{
     width: 70%;
