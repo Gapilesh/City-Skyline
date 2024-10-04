@@ -111,6 +111,10 @@ body{
     background-color: var(--building-color4);  
   }
 
+  .building-wrap{
+    
+  }
+
   /*FOREGROUND BUILDINGS - "fb" stands for "foreground building"*/
   .fb1 {
     width: 10%;
