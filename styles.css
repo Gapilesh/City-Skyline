@@ -115,14 +115,21 @@ body{
   background-color: var(--window-color4);
 }
 
-  .building-wrap{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
+.building-wrap{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.window-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+  
 
   /*FOREGROUND BUILDINGS - "fb" stands for "foreground building"*/
-  .fb1 {
+.fb1 {
     width: 10%;
     height: 60%;
     background-color: var(--building-color4);
